@@ -7,7 +7,9 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "qrcode.ts",
+        "qrcodegen.ts"
     ],
     "testFiles": [
         "test.ts"
