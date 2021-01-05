@@ -1,4 +1,7 @@
- 
+
+This extension wraps a lightly modified version of https://www.nayuki.io/page/qr-code-generator-library for use in MakeCode Arcade. Also uses code from https://github.com/substack/utf8-bytes. Both MIT licensed. See [qrcodegen.ts](qrcodegen.ts) for complete license text.
+
+----
 
 
 > Open this page at [https://jacobcarpenter.github.io/pxt-qr-code/](https://jacobcarpenter.github.io/pxt-qr-code/)
